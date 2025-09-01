@@ -6,7 +6,7 @@ The mission is to destroy everything and have fun with a vehicle.
 
  ## Controls
 
-- ZQSD to move around
+- ZQSD/Arrow keys to move around
 - R to reset level
 - Backspace to reset the vehicle orientation
 - SpaceBar to use handbrake
